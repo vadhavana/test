@@ -1,2 +1,2 @@
 # test
-this is just simple python program .
+This is just simple python program .
