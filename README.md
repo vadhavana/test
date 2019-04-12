@@ -1,2 +1,2 @@
 # test
-This is just simple python program .
+This repo contains simple programs.
